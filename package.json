@@ -5,7 +5,7 @@
   "homepage": "https://shecancode-uga.github.io/scc-website/",
   "scripts": {
     "dev": "next dev --turbopack",
-    "build": "next build && next export",
+    "build": "next build",
     "start": "next start",
     "predeploy": "npm run build",
     "deploy": "gh-pages -d out"
