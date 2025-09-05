@@ -40,6 +40,10 @@
 
 /* 📱 Mobile adjustments */
 @media (max-width: 600px) {
+
+    .nav {
+        position:fixed;
+    }
     .div1 {
         flex-direction: column; /* stack items vertically */
         gap: 10px;
