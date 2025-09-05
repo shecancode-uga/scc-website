@@ -1,26 +1,30 @@
 @font-face {
     font-family: 'Lora';
     src: url("/fonts/Lora-VariableFont_wght.ttf") format("truetype");
-    font-weight: 300 900; /* variable font range */
+    font-weight: 300 900;
+    /* variable font range */
     font-style: normal;
 }
 
 .nav {
     position: sticky;
-    top: 0; /* make sure it sticks properly */
+    top: 0;
+    /* make sure it sticks properly */
     width: 100%;
     background-color: white;
     height: auto;
     border-bottom: 10px double #EA65A4;
     margin-bottom: 10px;
-    z-index: 1000; /* keep above other content */
+    z-index: 1000;
+    /* keep above other content */
 }
 
 .div1 {
     display: flex;
     justify-content: center;
     align-items: center;
-    flex-wrap: wrap; /* allow items to wrap on small screens */
+    flex-wrap: wrap;
+    /* allow items to wrap on small screens */
     padding: 6px 12px;
     gap: 20px;
     font-family: 'Lora', serif;
@@ -42,10 +46,20 @@
 @media (max-width: 600px) {
 
     .nav {
-        position:fixed;
+        position: fixed;
+        top: 0;
+        width: 100%;
+        background-color: #333;
+        /* Example background */
+        color: white;
+        padding: 10px 0;
+        z-index: 1000;
+        transition: transform 0.3s ease-in-out;
     }
+
     .div1 {
-        flex-direction: column; /* stack items vertically */
+        flex-direction: column;
+        /* stack items vertically */
         gap: 10px;
         font-size: 1.1rem;
     }
