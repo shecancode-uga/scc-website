@@ -1,0 +1,54 @@
+@font-face {
+    font-family: 'Lora';
+    src: url("/fonts/Lora-VariableFont_wght.ttf") format("truetype");
+    font-weight: 300 900; /* variable font range */
+    font-style: normal;
+}
+
+.nav {
+    position: sticky;
+    top: 0; /* make sure it sticks properly */
+    width: 100%;
+    background-color: white;
+    height: auto;
+    border-bottom: 10px double #EA65A4;
+    margin-bottom: 10px;
+    z-index: 1000; /* keep above other content */
+}
+
+.div1 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap; /* allow items to wrap on small screens */
+    padding: 6px 12px;
+    gap: 20px;
+    font-family: 'Lora', serif;
+    font-size: 1.5rem;
+    color: #EA65A4;
+    text-align: center;
+}
+
+.div2 {
+    display: flex;
+    align-items: center;
+    flex-wrap: wrap;
+    font-family: 'Lora', serif;
+    margin: 10px;
+    font-size: 1.1rem;
+}
+
+/* 📱 Mobile adjustments */
+@media (max-width: 600px) {
+    .div1 {
+        flex-direction: column; /* stack items vertically */
+        gap: 10px;
+        font-size: 1.1rem;
+    }
+
+    .div2 {
+        justify-content: center;
+        margin: 5px;
+        font-size: 1rem;
+    }
+}

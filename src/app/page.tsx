@@ -1,9 +1,12 @@
 import './globals.css';
-import Navbar from './components/Navbar';
-export default function Navbar () {
+import Navbar from '@/components/Navbar';
+import Homepage from '@/components/Homepage';
+
+export default function Home() {
   return (
     <div>
-      <Navbar/>
+      <Navbar />
+      <Homepage />
     </div>
   );
 }
