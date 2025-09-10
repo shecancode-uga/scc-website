@@ -13,7 +13,7 @@ export default function Signuppage() {
                 Mentor Form </Link>
             </div>
             <div className={styles.text}>
-                <Link className={styles.link} target='_blank' href=''>
+                <Link className={styles.link} target='_blank' href='https://docs.google.com/forms/d/e/1FAIpQLSdlopV35lRVENRW4JlyrPIrtBU0HL-OjofzStg5pxNQ00l08w/viewform'>
                 Mentee Form
                 </Link>
             </div>

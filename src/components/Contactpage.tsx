@@ -8,6 +8,7 @@ import aabha from '@/assets/Aabha_Muley_Vice_President.jpg'
 import jj from '@/assets/JJ.jpeg';
 import vila from '@/assets/Vilasini_Gunasekaran_Marketing.jpg'
 import jackie from '@/assets/Jaqueline_Aguirre_Secretary.jpg';
+import manya from '@/assets/Manya_Vikram_Treasurer.jpg';
 import Footer from './Footer';
 import Link from 'next/link';
 
@@ -54,7 +55,7 @@ export default function Contactpage() {
                 </div>
                 <div className={styles2.card}>
                     <div className={styles2.img}>
-                        <Image src={img}
+                        <Image src={manya}
                             alt='placeholder'
                             className='h-auto w-auto'
                             priority />
@@ -66,7 +67,7 @@ export default function Contactpage() {
                         Treasurer
                     </div>
                     <div className={styles.text}>
-                        Bio
+                        Junior | Computer Science | Business Minor | Fintech Certificate
                     </div>
                 </div>
                 <div className={styles2.card}>
@@ -122,7 +123,7 @@ export default function Contactpage() {
                 </div>
             </div>
            <div className={styles.text}>
-                <Link className={styles.link} target='_blank' href=''>
+                <Link className={styles.link} target='_blank' href='https://docs.google.com/forms/d/e/1FAIpQLSc4GBShLqtvxOcH8tzF0NMaG9QnCw2mVBBfHAL-kdd0R8kYZg/viewforms'>
                 Contact Us!
                 </Link>
             </div>
