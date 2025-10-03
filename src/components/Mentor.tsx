@@ -15,6 +15,7 @@ interface MentorProps {
         year: string;
         hobbies: string;
         areas: string;
+        exp: string;
     };
 }
 
@@ -40,9 +41,12 @@ const Mentor = ({ item }: MentorProps) => {
                     Major: {item.major} <br></br> Minor: {item.minor} <br></br>
                     Year: {item.year}
                 </div>
-                <div className={styles2.text}>
-                    Hobbies: {item.hobbies} <br></br>
-                    Areas: {item.areas}
+                <div className={styles.textbox}>
+                    <p>
+                    <strong>Hobbies:</strong> {item.hobbies} <br></br>
+                    <strong>Areas:</strong> {item.areas} <br></br>
+                    <strong>Past/Current Experiences:</strong> {item.exp}
+                </p>
                 </div>
             </div>
         </div>

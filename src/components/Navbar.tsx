@@ -4,10 +4,31 @@ import Image from 'next/image';
 import name from '../assets/name.png';
 import Link from 'next/link';
 import styles from './Navbar.module.css';
+import { useEffect, useState } from "react";
 
 export default function Navbar() {
+    const [hidden, setHidden] = useState(false);
+
+  useEffect(() => {
+    let lastScrollY = window.scrollY;
+
+    const handleScroll = () => {
+      if (window.scrollY > lastScrollY) {
+        // scrolling down → hide
+        setHidden(true);
+      } else {
+        // scrolling up → show
+        setHidden(false);
+      }
+      lastScrollY = window.scrollY;
+    };
+
+    window.addEventListener("scroll", handleScroll);
+    return () => window.removeEventListener("scroll", handleScroll);
+  }, []);
+
     return (
-        <nav className={styles.nav}>
+       <nav className={`${styles.nav} ${hidden ? styles.navHidden : ""}`}>
             <div className={styles.div1}>
                 <Link className='cursor-pointer hover:underline' href='/' >
                     Home

@@ -132,13 +132,13 @@
     .div2,
     .text,
     .img {
-        width: 90%;         /* expand more on laptop */
+        width: 80%;         /* expand more on laptop */
         font-size: 2rem;    /* restore bigger heading font */
-        padding: 20px;
+        padding: 10px;
     }
 
     .text {
-        font-size: 1.5rem;  /* body text slightly larger */
+        font-size: 1.25rem;  /* body text slightly larger */
     }
 
     .footer {

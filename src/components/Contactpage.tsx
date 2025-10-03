@@ -133,7 +133,7 @@ export default function Contactpage() {
                 </div>
             </div>
             <div className={styles.text}>
-                <Link className={styles.link} target='_blank' href='https://docs.google.com/forms/d/e/1FAIpQLSc4GBShLqtvxOcH8tzF0NMaG9QnCw2mVBBfHAL-kdd0R8kYZg/viewforms'>
+                <Link className={styles.link} target='_blank' href='https://docs.google.com/forms/u/1/d/e/1FAIpQLSc4GBShLqtvxOcH8tzF0NMaG9QnCw2mVBBfHAL-kdd0R8kYZg/viewform?usp=send_form'>
                     Contact Us!
                 </Link>
             </div>

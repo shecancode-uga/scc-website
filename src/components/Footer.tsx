@@ -14,14 +14,7 @@ export default function Footer() {
             priority 
             />
             &copy;
-        <a 
-                href="https://www.linkedin.com/in/mong-vo/"
-                target="_blank"
-                rel="noopener noreferrer"
-                className={styles.icon}
-            >
-            <FontAwesomeIcon icon={faSquareLinkedin} size="2x" />
-        </a>
+       
         </div>
     );
 };
