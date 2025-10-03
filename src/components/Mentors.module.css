@@ -31,6 +31,8 @@
     padding: 30px;
     text-align: center;
     transition: 0.5s;
+    height: 100%;
+    max-height:1000px;
 }
 
 .card:hover {
@@ -40,12 +42,21 @@
 
 .img {
     display: flex;
+    position: relative;
     justify-content: center;
     align-items: center;
     margin: auto;
     border: 3px solid #EA65A4;
     width: fit-content;
+    width: 300px;
+    height: 300px;
 
+}
+
+.imgwrapper {
+    position: relative;
+    width: 100%;
+    height: 300px;
 }
 
 .name {

@@ -22,112 +22,122 @@ export default function Contactpage() {
                 <div className={styles2.card}>
                     <div className={styles2.img}>
                         <Image src={mong}
-                            alt='placeholder'
-                            className='h-auto w-auto'
-                            priority />
+                            alt='mong'
+                            fill
+                            className='object-contain'
+                            priority
+                        />
                     </div>
                     <div className={styles2.name}>
                         Mong Vo
                     </div>
                     <div className={styles2.text}>
-                        President 
-                    </div>
-                    <div className={styles.text}>
-                        Senior | Computer Science | Philosophy & Cognitive Science Minor
+                        President <br></br>
+                        Year: 4th < br></br>
+                        Major: Computer Science <br></br>
+                        Minor: Philosophy & Cognitive Science Minor
                     </div>
                 </div>
                 <div className={styles2.card}>
                     <div className={styles2.img}>
                         <Image src={aabha}
-                            alt='placeholder'
-                            className='h-auto w-auto'
-                            priority />
+                            alt='aabha'
+                            fill
+                            className='object-contain'
+                            priority
+                        />
                     </div>
                     <div className={styles2.name}>
                         Aabha Muley
                     </div>
                     <div className={styles2.text}>
-                        Vice President
-                    </div>
-                    <div className={styles.text}>
-                        Sophomore | Cognitive Science & MIS
+                        Vice President <br></br>
+                        Year: 2nd <br></br>
+                        Major: Cognitive Science & MIS
                     </div>
                 </div>
                 <div className={styles2.card}>
                     <div className={styles2.img}>
                         <Image src={manya}
-                            alt='placeholder'
-                            className='h-auto w-auto'
-                            priority />
+                            alt='manya'
+                            fill
+                            className='object-contain'
+                            priority
+                        />
                     </div>
                     <div className={styles2.name}>
                         Manya Vikram
                     </div>
                     <div className={styles2.text}>
-                        Treasurer
-                    </div>
-                    <div className={styles.text}>
-                        Junior | Computer Science | Business Minor | Fintech Certificate
+                        Treasurer <br></br>
+                        Year: 3rd <br></br>
+                        Major: Computer Science <br></br>
+                        Minor: Business Minor | Fintech Certificate
                     </div>
                 </div>
                 <div className={styles2.card}>
                     <div className={styles2.img}>
                         <Image src={jj}
-                            alt='placeholder'
-                            className='h-auto w-auto'
-                            priority />
+                            alt='jj'
+                            fill
+                            className='object-contain'
+                            priority
+                        />
                     </div>
                     <div className={styles2.name}>
                         JJ Huynh
                     </div>
                     <div className={styles2.text}>
-                        Marketing Officer | Website Developer
-                    </div>
-                    <div className={styles.text}>
-                        Junior | Computer Science | Design & Media Minor | Game Design Emphasis
+                        Marketing Officer | Website Developer <br></br>
+                        Year: 3rd <br></br>
+                        Major: Computer Science <br></br>
+                        Minor: Design & Media | Game Design Emphasis
                     </div>
                 </div>
                 <div className={styles2.card}>
                     <div className={styles2.img}>
                         <Image src={vila}
-                            alt='placeholder'
-                            className='h-auto w-auto'
-                            priority />
+                            alt='vila'
+                            fill
+                            className='object-contain'
+                            priority
+                            />
                     </div>
                     <div className={styles2.name}>
                         Vilasini Gunasekaran
                     </div>
                     <div className={styles2.text}>
-                        Chief Marketing Officer
-                    </div>
-                    <div className={styles.text}>
-                        Sophomore | Computer Science
+                        Marketing Officer <br></br>
+                        Year: 2nd <br></br>
+                        Major: Computer Science<br></br>
                     </div>
                 </div>
                 <div className={styles2.card}>
                     <div className={styles2.img}>
                         <Image src={jackie}
-                            alt='placeholder'
-                            className='h-auto w-auto'
-                            priority />
+                            alt='jackie'
+                            fill
+                            className='object-contain'
+                            priority
+                            />
                     </div>
                     <div className={styles2.name}>
                         Jaqueline Aguirre
                     </div>
                     <div className={styles2.text}>
-                        Secretary
-                    </div>
-                    <div className={styles.text}>
-                        Junior | Computer Science | Business Minor
+                        Secretary <br></br>
+                        Year: 3rd <br></br>
+                        Major: Computer Science <br></br>
+                        Minor: Business
                     </div>
                 </div>
             </div>
-           <div className={styles.text}>
+            <div className={styles.text}>
                 <Link className={styles.link} target='_blank' href='https://docs.google.com/forms/d/e/1FAIpQLSc4GBShLqtvxOcH8tzF0NMaG9QnCw2mVBBfHAL-kdd0R8kYZg/viewforms'>
-                Contact Us!
+                    Contact Us!
                 </Link>
             </div>
-           <Footer/>
+            <Footer />
         </div>
     )
 }

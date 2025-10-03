@@ -1,0 +1,152 @@
+[
+    {
+        "_id":1,
+        "name": "Lauren",
+        "img": "/images/lauren.png",
+        "major": "Computer Science, M.S. AI",
+        "minor": "Cognitive Science",
+        "year": "Graduate (MS)",
+        "hobbies": "Video Games, Weightlifting",
+        "areas": "Academic guidance, Career development, Technical skills, Personal growth, Networking, First-Generation"
+    },
+    {
+        "_id":2,
+        "name": "Codey",
+        "img": "/images/codey.jpg",
+        "major": "Computer Science",
+        "minor": " ",
+        "year": "Alumni",
+        "hobbies": "Play games, explore outside, spend time with friends",
+        "areas": "Academic guidance, Career development, Technical skills, Personal growth"
+    },
+    {
+        "_id":3,
+        "name": "Mong",
+        "img": "/images/mong.jpg",
+        "major": "Computer Science",
+        "minor": "Philosophy, Cognitive Science",
+        "year": "4th",
+        "hobbies": "Watch TV, Read, Bake ",
+        "areas": "Career development, Personal growth, Networking"
+    },
+    {
+        "_id":4,
+        "name": "Lilian",
+        "img": "/images/lilian.JPEG",
+        "major": "Computer Science",
+        "minor": "SAP Generative AI Certification",
+        "year": "Alumni",
+        "hobbies": "I love to be outdoors running and hiking.",
+        "areas": "Personal growth, Networking, Transfer"
+    },
+    {
+        "_id":5,
+        "name": "Kelsey",
+        "img": "/images/Kelsey.jpeg",
+        "major": "Computer Science",
+        "minor": " ",
+        "year": "4th",
+        "hobbies": "Weight lift, video game, draw, read comics, crochet, visit cute coffee shops",
+        "areas": "Academic guidance, Career development, Technical skills, Networking"
+    },
+    {
+        "_id":6,
+        "name": "Min",
+        "img": "/images/min.jpg",
+        "major": "Computer Science",
+        "minor": "Graphic Design & Media",
+        "year": "4th",
+        "hobbies": "Crochet, illustrate, read, listen to music",
+        "areas": "Academic guidance, Technical skills, Personal growth"
+    },
+    {
+        "_id":7,
+        "name": "Andrea",
+        "img": "/images/andrea.png",
+        "major": "Computer Science",
+        "minor": "Data Science Cerificate",
+        "year": "4th",
+        "hobbies": "I enjoy embroidery and hand-stitching, and I love spending time with my dog, friends, and family.",
+        "areas": "Career development, Personal growth, Networking, First-Generation, Nontraditional, Transfer"
+    },
+    {
+        "_id":8,
+        "name": "Aziza",
+        "img": "/images/aziza.jpeg",
+        "major": "Computer Science",
+        "minor": " ",
+        "year": "4th",
+        "hobbies": "Travel & Hike",
+        "areas": "Academic guidance, Career development, Personal growth, Networking"
+    },
+    {
+        "_id":9,
+        "name": "Sneha",
+        "img": "/images/Sneha.jpeg",
+        "major": "Data Science",
+        "minor": "Communication Studies",
+        "year": "4th",
+        "hobbies": "Paint and bake!",
+        "areas": "Academic guidance, Career development, Personal growth, Networking"
+    },
+    {
+        "_id":10,
+        "name": "Bhaumi",
+        "img": "/images/bhaumi.jpg",
+        "major": "Computer Science",
+        "minor": "Design & Media",
+        "year": "1st",
+        "hobbies": "Cooking different recipes, scrapbooking, and keeping my brain busy with puzzles from the New York Times and LinkedIn. I also enjoy playing video games and solving puzzles. I do math for fun on the side!",
+        "areas": "Academic guidance, Career development, Personal growth, Networking"
+    },
+    {
+        "_id":11,
+        "name": "Muthu",
+        "img": "/images/muthu.jpeg",
+        "major": "Computer Science",
+        "minor": "Math, PCAP Python Certificate",
+        "year": "4th",
+        "hobbies": "Read",
+        "areas": "Academic guidance, Technical skills, Personal growth"
+    },
+    {
+        "_id":12,
+        "name": "Jaqueline",
+        "img": "/images/jacqueline.JPG",
+        "major": "Computer Science",
+        "minor": "Business, Applied Data Science Certificate",
+        "year": "3rd",
+        "hobbies": "Video games, concert going, anime/manga, exploring new places, ig doomscrolling ",
+        "areas": "Career development, Personal growth, Networking, First-Generation, Transfer, Experiences as a person of Hispanic/Latino heritage in tech "
+    },
+    {
+        "_id":13,
+        "name": "Grace R.",
+        "img": "/images/gracer.jpg",
+        "major": "Computer Science",
+        "minor": "Women Studies",
+        "year": "4th",
+        "hobbies": "Watch Kdramas/Cdramas, hike, read, drink matcha/boba",
+        "areas": "Academic guidance, Personal growth"
+    },
+    {
+        "_id":14,
+        "name": "Grace C.",
+        "img": "/images/gracec.jpeg",
+        "major": "Management Information Systems & International Business",
+        "minor": "Japanese Lang & Lit",
+        "year": "Alumni",
+        "hobbies": "Gaming, Baking, Reading, and Nails",
+        "areas": "Career development, Personal growth, Networking"
+    },
+    {
+        "_id":15, 
+        "name": "Nikita",
+        "img": "/images/nikita.jpg",
+        "major": "Data Analytics",
+        "minor": " ",
+        "year": "Alumni",
+        "hobbies": "Read, Sing, Dance, Exercise, Cook ",
+        "areas": "Academic guidance, Career development, Technical skills, Personal growth, Networking, Transfer"
+    }
+]
