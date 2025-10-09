@@ -163,5 +163,17 @@
         "hobbies": "Read, Sing, Dance, Exercise, Cook ",
         "exp":"Software Engineer",
         "areas": "Academic guidance, Career development, Technical skills, Personal growth, Networking, Transfer"
+    },
+    {
+        "_id":16,
+        "name": "Susmi Kharel",
+        "img":"/images/susmi.jpeg",
+        "major":"Computer Science",
+        "minor":"Concentration in Computational Science & Visualization",
+        "year":"4th",
+        "hobbies":"Traveling, Hiking, Reading and Painting! I also love learning new things!",
+        "exp":"Software Engineer Intern @ PBE Axell, Data Science Engineer Intern @ FDH Infrastructure Services",
+        "areas": "Academic guidance, Career development, Personal growth"
+
     }
 ]
