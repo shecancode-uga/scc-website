@@ -78,17 +78,6 @@
         "areas": "Academic guidance, Career development, Personal growth, Networking"
     },
     {
-        "_id": 8,
-        "name": "Bhaumi Nadella",
-        "img": "/images/bhaumi.jpg",
-        "major": "Computer Science",
-        "minor": "Design & Media",
-        "year": "1st",
-        "hobbies": "Cooking different recipes, scrapbooking, and keeping my brain busy with puzzles from the New York Times and LinkedIn. I also enjoy playing video games and solving puzzles. I do math for fun on the side!",
-        "exp": "AI Intern @ Quadrant Technologies, MathCounts UGA Tutor",
-        "areas": "Academic guidance, Career development, Personal growth, Networking"
-    },
-    {
         "_id": 9,
         "name": "Muthu Krishnappan",
         "img": "/images/muthu.jpeg",
