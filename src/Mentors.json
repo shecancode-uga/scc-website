@@ -78,7 +78,7 @@
         "areas": "Academic guidance, Career development, Personal growth, Networking"
     },
     {
-        "_id": 9,
+        "_id": 8,
         "name": "Muthu Krishnappan",
         "img": "/images/muthu.jpeg",
         "major": "Computer Science",
@@ -89,7 +89,7 @@
         "areas": "Academic guidance, Technical skills, Personal growth"
     },
     {
-        "_id": 11,
+        "_id": 9,
         "name": "Grace Ryoo",
         "img": "/images/gracer.jpg",
         "major": "Computer Science",
@@ -100,7 +100,7 @@
         "areas": "Academic guidance, Personal growth"
     },
     {
-        "_id": 12,
+        "_id": 10,
         "name": "Grace Conn",
         "img": "/images/gracec.jpeg",
         "major": "Management Information Systems & International Business",
@@ -111,7 +111,7 @@
         "areas": "Career development, Personal growth, Networking"
     },
     {
-        "_id": 13,
+        "_id": 11,
         "name": "Nikita Kondla",
         "img": "/images/nikita.jpg",
         "major": "Data Analytics",
@@ -122,7 +122,7 @@
         "areas": "Academic guidance, Career development, Technical skills, Personal growth, Networking, Transfer"
     },
     {
-        "_id":14,
+        "_id":12,
         "name": "Susmi Kharel",
         "img":"/images/susmi.jpeg",
         "major":"Computer Science",
