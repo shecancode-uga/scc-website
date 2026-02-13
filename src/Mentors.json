@@ -101,14 +101,14 @@
     },
     {
         "_id": 10,
-        "name": "Grace Conn",
-        "img": "/images/gracec.jpeg",
-        "major": "Management Information Systems & International Business",
-        "minor": "Japanese Lang & Lit",
+        "name": "Jaqueline Aguirre",
+        "img": "/images/jackie.jpg",
+        "major": "Computer Science",
+        "minor": "Business, Certificate in Applied Data Science",
         "year": "Alumni",
-        "hobbies": "Gaming, Baking, Reading, and Nails",
-        "exp":"Network Engineer @ AT&T",
-        "areas": "Career development, Personal growth, Networking"
+        "hobbies": "Video games, concert going, anime/manga, exploring new places, ig doomscrolling",
+        "exp":"Product Management Intern @ Infor, Software Enginee @ Ally Financial",
+        "areas": "Career development, Personal growth, Networking, First-Generation, Transfer, Experiences as a person of Hispanic/Latino heritage in tech "
     },
     {
         "_id": 11,
@@ -131,6 +131,18 @@
         "hobbies":"Traveling, Hiking, Reading and Painting! I also love learning new things!",
         "exp":"Software Engineer Intern @ PBE Axell, Data Science Engineer Intern @ FDH Infrastructure Services",
         "areas": "Academic guidance, Career development, Personal growth"
+
+    },
+    {
+        "_id":13,
+        "name": "Annie Cheung",
+        "img":"/images/annie.jpeg",
+        "major":"Management Information Systems, International Business",
+        "minor":"Emphasis in Data Analytics",
+        "year":"4th",
+        "hobbies":"Shopping, Sewing, Karaoke",
+        "exp":"Project Management and Technology Strategy Intern @ Terry Career Management Center, Oracle Intern @ Ernst and Young, Exchange Student @ HKU, Future Consultant @ The Virtus Solution",
+        "areas": "Career development, Networking, First-Generation"
 
     }
 ]
