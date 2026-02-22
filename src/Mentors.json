@@ -105,7 +105,7 @@
         "img": "/images/jackie.jpg",
         "major": "Computer Science",
         "minor": "Business, Certificate in Applied Data Science",
-        "year": "Alumni",
+        "year": "3rd",
         "hobbies": "Video games, concert going, anime/manga, exploring new places, ig doomscrolling",
         "exp":"Product Management Intern @ Infor, Software Enginee @ Ally Financial",
         "areas": "Career development, Personal growth, Networking, First-Generation, Transfer, Experiences as a person of Hispanic/Latino heritage in tech "
@@ -136,7 +136,7 @@
     {
         "_id":13,
         "name": "Annie Cheung",
-        "img":"/images/annie.jpeg",
+        "img":"/images/Annie.jpeg",
         "major":"Management Information Systems, International Business",
         "minor":"Emphasis in Data Analytics",
         "year":"4th",
@@ -144,5 +144,30 @@
         "exp":"Project Management and Technology Strategy Intern @ Terry Career Management Center, Oracle Intern @ Ernst and Young, Exchange Student @ HKU, Future Consultant @ The Virtus Solution",
         "areas": "Career development, Networking, First-Generation"
 
+    },
+    {
+        "_id":14,
+        "name": "Navi Jha",
+        "img":"/images/navi.jpg",
+        "major":"Computer Systems Engineering",
+        "minor":"Computer Science",
+        "year":"3rd",
+        "hobbies":"Basketball, Coding, mini hardware projects, and Dancing",
+        "exp":"Tutor & Desk Assistant @ UGA ",
+        "areas": "Academic guidance, Career development, Personal growth"
+
+    },
+    {
+        "_id":15,
+        "name": "Maya Nessmith",
+        "img":"/images/maya.jpg",
+        "major":"Computer Systems Engineering",
+        "minor":"",
+        "year":"3rd",
+        "hobbies":"Crochet",
+        "exp":"Student Organization Leader",
+        "areas": "Academic guidance"
+
     }
+    
 ]
